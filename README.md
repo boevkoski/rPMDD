@@ -23,3 +23,11 @@ Published in *Scientific Reports*, 15(1):34300, 2025.
   url       = {https://doi.org/10.1038/s41598-025-19220-2},
   issn      = {2045-2322}
 }
+```
+
+#### 📁 Data Access
+
+The Reddit-derived dataset used in this study is not publicly distributed due to privacy considerations.
+To request access for academic purposes, please contact the authors:
+
+📧 evkoski_bojan [at] phd [dot] ceu [dot] edu
